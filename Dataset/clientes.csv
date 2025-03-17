@@ -1,0 +1,91 @@
+ClienteID,Nome,Email,Telefone,Endereço,Cidade,Estado,Prime,Data de Nascimento
+49026,Calebe da Luz,ana-livia02@example.com,(061) 3670-1064,"Alameda Correia, 186
+Vitoria Da Conquista
+41635723 Castro do Oeste / RO",Cavalcanti do Oeste,Mato Grosso do Sul,False,2003-05-14
+35439,Esther Pinto,renan65@example.com,(031) 5387-2197,"Via Porto
+Santo André
+09122870 Pacheco / AC",Santos de Barbosa,Pará,True,1984-07-18
+9685,Dra. Sarah Aragão,ymacedo@example.net,41 0468 6054,"Estação de Novaes
+Conjunto Novo Dom Bosco
+30634363 da Paz do Sul / MS",Ribeiro,Sergipe,True,2006-10-04
+82819,Arthur Gabriel Abreu,joao-guilherme62@example.org,81 1116 5337,"Sítio Fonseca, 40
+Granja Werneck
+47831458 Nunes / MA",Marques,Amazonas,False,1991-05-11
+55891,Emanuella Moreira,xmontenegro@example.org,0500 238 1137,"Esplanada Benicio Almeida, 79
+Lourdes
+96665-444 Rios / CE",Campos do Campo,Goiás,True,1976-11-24
+57308,Pedro Henrique Farias,cda-rosa@example.org,(084) 4523-8159,"Estrada Campos, 35
+São Bernardo
+80064-495 Barbosa / AM",Pacheco de Duarte,Amazonas,False,1985-01-31
+24444,Vitor Hugo Câmara,zsales@example.com,+55 (061) 0959-0436,"Quadra Câmara, 29
+Ouro Preto
+22292-766 Rodrigues / AP",Rezende,Paraíba,True,1988-02-12
+81350,Isaac Fogaça,nathanpimenta@example.org,+55 (071) 8847-1584,"Núcleo Oliveira, 70
+Solar Do Barreiro
+32907-519 Sampaio / SC",Leão do Norte,Amapá,True,1970-02-11
+94634,Ana Lívia Melo,benicio57@example.net,(041) 3219 3728,"Loteamento Luiz Miguel Rezende
+São Geraldo
+10264-735 Gonçalves de Goiás / CE",Brito,Pará,False,1983-09-29
+70505,Bianca Teixeira,luiz-otavioaraujo@example.org,61 1814-4599,"Sítio Vasconcelos, 97
+São Salvador
+35005-467 Aragão / RR",Moraes de Goiás,São Paulo,True,1984-06-08
+68481,Nathan Fonseca,ana-carolina14@example.net,21 7993 3293,"Colônia Novais
+Vila Rica
+63932637 Cavalcanti / SP",Mendonça,Mato Grosso do Sul,True,1986-06-20
+57453,Calebe Mendes,ramosalexandre@example.com,71 0538-1175,"Passarela Sampaio
+Heliopolis
+06930-483 Macedo / RS",Melo,Acre,True,2000-12-07
+12811,Melina Camargo,dgomes@example.org,(051) 1576 0529,"Viela Letícia Montenegro, 40
+Universitário
+84225262 Moreira / TO",Souza das Pedras,Bahia,True,1965-06-20
+72569,Sra. Alícia Brito,tlopes@example.net,81 3233-3198,"Fazenda Almeida, 23
+Lagoinha Leblon
+18541-152 da Rocha da Prata / PI",da Rosa,Ceará,True,1961-01-19
+71066,Dr. Felipe Lopes,rsilveira@example.com,(061) 4983-0706,"Campo de Pereira
+Milionario
+27063-847 Farias Verde / RR",Pinto dos Dourados,Goiás,False,1972-04-29
+67235,Kevin Borges,da-cruzyan@example.net,(051) 2438-0298,"Jardim Vinicius Ribeiro, 66
+Funcionários
+51395-841 Novaes / DF",Cavalcanti de Rezende,Pará,False,1981-04-26
+37895,Luna Vasconcelos,esterbrito@example.net,0800 206 4577,"Campo de Abreu, 74
+Inconfidência
+82541061 Nogueira da Praia / MT",Viana de Goiás,Tocantins,False,1997-06-12
+91781,Joaquim Lopes,jda-cruz@example.com,21 1352-0543,"Ladeira Borges, 77
+Juliana
+69181498 Ribeiro / PR",Porto de Minas,Sergipe,False,1988-08-08
+87768,Enzo Freitas,jadearaujo@example.org,0900 743 7946,"Passarela Kevin Farias, 163
+Conjunto Minas Caixa
+26046065 Pinto de Silveira / CE",Moreira do Galho,Goiás,False,1992-08-29
+49924,Ana Lívia Camargo,da-conceicaovitor-gabriel@example.org,84 8644 6961,"Residencial Luara Gonçalves, 52
+Novo São Lucas
+91383-928 Mendes / MS",Araújo da Serra,Maranhão,True,1960-08-27
+12547,Valentim Nascimento,antonella78@example.com,(031) 5054-8662,"Núcleo Rael Duarte, 31
+Rio Branco
+55092-849 Castro dos Dourados / RS",Novais do Campo,Distrito Federal,True,1964-03-24
+11648,Isadora da Mota,stella99@example.net,+55 (051) 6261-1127,"Avenida Vinícius Aragão, 22
+Manacas
+80730807 Sá / SP",Souza,Espírito Santo,False,1992-02-27
+17953,Natália Nunes,yrios@example.net,+55 11 2241 5949,"Passarela Heitor Lima, 4
+Vila Mantiqueira
+32375-113 Borges de Siqueira / MA",Casa Grande,Rio Grande do Sul,False,1975-12-12
+71954,Gabriela Santos,silveiraagatha@example.net,+55 (081) 5135 7633,"Trevo Isabelly Gonçalves, 45
+Nova Cachoeirinha
+15994606 Araújo do Galho / AC",da Rosa,Acre,False,1987-06-07
+84927,Catarina Castro,antonella51@example.net,+55 (081) 6426 3853,"Favela de Casa Grande, 55
+Marieta 2ª Seção
+41637209 Araújo Verde / TO",Andrade Grande,Rio Grande do Norte,False,1963-01-08
+3281,Agatha Oliveira,peixotocarlos-eduardo@example.com,+55 21 5191 2811,"Conjunto das Neves
+Vila Atila De Paiva
+23327513 Martins Verde / PA",Novaes de Borges,Alagoas,False,1993-05-02
+60872,Sara Albuquerque,omonteiro@example.com,0800-249-5584,"Morro de Siqueira, 694
+Copacabana
+23110-010 Pimenta / MT",Guerra Verde,Roraima,True,2002-02-22
+88149,Henry Campos,camposthomas@example.com,+55 71 3732-4885,"Residencial Ana Sophia da Conceição
+Cdi Jatoba
+24552793 Moreira do Norte / MT",Mendonça de Goiás,Pernambuco,False,1973-11-28
+26519,Lunna Caldeira,joao-gabriel32@example.com,+55 (071) 4224 9278,"Favela Garcia
+Sagrada Família
+47625301 Câmara / PR",Leão,Rio de Janeiro,True,1967-05-08
+19495,Sr. Davi Vargas,garciaana-julia@example.com,0500-751-1060,"Viaduto Theodoro Costela, 23
+Santa Cecilia
+88955639 Monteiro / RN",Aragão da Serra,Sergipe,False,1960-02-04
